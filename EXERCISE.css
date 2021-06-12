@@ -1,0 +1,320 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/WhatsAppImage2021-06-12at13.01.31.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 808px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-family: Bungee;
+  width: 208px;
+  margin: 132px auto 0;
+}
+
+.u-section-1 .u-video-1 {
+  width: 552px;
+  height: 306px;
+  margin: 92px auto 0 573px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  font-family: Aladin;
+  margin: -356px 619px 60px 15px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  font-size: 2rem;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 666px;
+  }
+
+  .u-section-1 .u-video-1 {
+    margin-left: 388px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 434px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 510px;
+  }
+
+  .u-section-1 .u-video-1 {
+    margin-left: 168px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 214px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 383px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 540px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 34px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 241px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+}.u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url("images/WhatsAppImage2021-06-12at13.46.52.jpeg");
+  min-height: 50vw;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: Bungee;
+  font-size: 3.75rem;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  font-family: Aladin;
+  font-size: 2rem;
+  margin: 118px 721px 0 80px;
+}
+
+.u-section-2 .u-video-1 {
+  width: 612px;
+  height: 363px;
+  margin: -385px calc(((100% - 1140px) / 2)) 41px auto;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 {
+    min-height: 881px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 601px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-video-1 {
+    margin-right: calc(((100% - 940px) / 2));
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-2 {
+    margin-right: 381px;
+  }
+
+  .u-section-2 .u-video-1 {
+    margin-right: calc(((100% - 720px) / 2));
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-2 {
+    margin-right: 201px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 540px;
+    margin-right: calc(((100% - 540px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-2 {
+    margin-right: 1px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 340px;
+    margin-right: calc(((100% - 340px) / 2));
+  }
+}.u-section-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/WhatsAppImage2021-06-12at13.49.51.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 649px;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: Bungee;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-text-2 {
+  font-family: Aladin;
+  font-size: 1.875rem;
+  margin: 41px 570px 0 0;
+}
+
+.u-section-3 .u-video-1 {
+  width: 542px;
+  height: 305px;
+  margin: -288px 0 60px auto;
+}
+
+.u-section-3 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 535px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 110px;
+    margin-right: 110px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 410px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 308px;
+  }
+
+  .u-section-3 .u-video-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 194px;
+  }
+
+  .u-section-3 .u-video-1 {
+    width: 340px;
+  }
+}.u-section-4 {
+  background-image: url("images/WhatsAppImage2021-06-12at13.58.19.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 735px;
+}
+
+.u-section-4 .u-text-1 {
+  font-family: Bungee;
+  font-size: 3.75rem;
+  width: 563px;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-text-2 {
+  font-family: Aladin;
+  font-size: 2rem;
+  margin: 123px 577px 0 0;
+}
+
+.u-section-4 .u-video-1 {
+  width: 529px;
+  height: 297px;
+  margin: -306px 0 60px auto;
+}
+
+.u-section-4 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 606px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 377px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 464px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 157px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 348px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 219px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-4 .u-video-1 {
+    width: 340px;
+  }
+}
